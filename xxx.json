@@ -1,0 +1,38 @@
+[
+    {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "stanowisko": "Programista",
+        "stawka_godzinowa": 100.0
+    },
+    {
+        "imie": "Anna",
+        "nazwisko": "Nowak",
+        "stanowisko": "Analityk",
+        "stawka_godzinowa": 80.0
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "stanowisko": "Programista",
+        "stawka_godzinowa": 100.0
+    },
+    {
+        "imie": "Anna",
+        "nazwisko": "Nowak",
+        "stanowisko": "Analityk",
+        "stawka_godzinowa": 80.0
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "stanowisko": "Programista",
+        "stawka_godzinowa": 100.0
+    },
+    {
+        "imie": "Anna",
+        "nazwisko": "Nowak",
+        "stanowisko": "Analityk",
+        "stawka_godzinowa": 80.0
+    }
+]

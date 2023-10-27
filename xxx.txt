@@ -1,0 +1,6 @@
+Jan,Kowalski,Programista,100.0
+Anna,Nowak,Analityk,80.0
+Jan,Kowalski,Programista,100.0
+Anna,Nowak,Analityk,80.0
+Jan,Kowalski,Programista,100.0
+Anna,Nowak,Analityk,80.0
